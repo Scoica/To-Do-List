@@ -1,0 +1,6 @@
+Proiect 1:
+
+Date de azi incolo poate fi selectata
+Add/Delete: Tabelul se reface automat
+Mark se schimba in DB in functie de starea checkbox-lui
+
